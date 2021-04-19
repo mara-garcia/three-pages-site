@@ -2,7 +2,7 @@
 
 ## Overview
 
-3 pages sites with Grid made as part of the Scrimba's Responsive Web Design Bootcamp (https://scrimba.com/course/gresponsive).
+3 pages site with Grid made as part of the Scrimba's Responsive Web Design Bootcamp (https://scrimba.com/course/gresponsive).
 
 ### Screenshots
 
